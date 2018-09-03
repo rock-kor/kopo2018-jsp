@@ -38,6 +38,6 @@ key 생성방법
 
 # git repository 신청
 
-텔레그램으로 자신이 github에 가입한 이메일을
+텔레그램으로 자신이 github에 가입한 계정(이메일이 아닌 계정명)
 
 공유해 주시면 github repository 접근이 가능합니다.
