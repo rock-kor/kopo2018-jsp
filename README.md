@@ -27,8 +27,12 @@ key 생성방법
   4. ssh & gpg keys 클릭
   5. new ssh key 클릭
   6. 등록할 key의 이름과 key를 등록 해 주면 됩니다.
+  
    여기서 등록되는 키는 전 스텝에서 만든 key를 등록 해 주면 됩니다.
-   %USERPROFILE%\\.ssh\\id_rsa.pub 을 메모장으로 연 후 안에 있는 text를 모두 복사하여 붙여 넣습니다.
+   
+   %USERPROFILE%\\.ssh\\id_rsa.pub 을 메모장으로 open 후
+   
+   안에 있는 text를 모두 복사하여 key등록 화면에 붙여 넣습니다.
    
 이렇게 키를 등록하면 해당 pc는 자신이 연결한 git과 연동되어 사용 가능해 집니다.
 
