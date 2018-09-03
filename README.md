@@ -3,8 +3,11 @@
 
 # step 1. Git 회원가입.
 github 홈페이지에 회원가입을 합니다.
+
 학생계정(***.ac.kr)의 경우 private 기능을 무료로 사용할 수 있기 때문에
+
 학생계정으로 가입을 추천드립니다.
+
 (학생계정으로 회원가입 방법 링크 : http://upglay.tistory.com/11)
 
 # step 2. ssh key 생성 및 등록
